@@ -249,6 +249,7 @@
         <outline type="rss" text="BlogsGeek" title="BlogsGeek" xmlUrl="https://www.blogsgeek.com/feed/" htmlUrl="https://www.blogsgeek.com/"/>
         <outline type="rss" text="Bloomberg" title="Bloomberg" xmlUrl="https://www.techatbloomberg.com/blog/feed/" htmlUrl="https://www.techatbloomberg.com/blog/#2"/>
         <outline type="rss" text="BloomReach" title="BloomReach" xmlUrl="http://engineering.bloomreach.com/feed/" htmlUrl="http://engineering.bloomreach.com/"/>
+        <outline type="rss" text="Blusteak" title="Blusteak" xmlUrl="https://blusteak.com/" htmlUrl="https://blusteak.com/case-studies"/>
         <outline type="rss" text="Blundell | Android Developer Tutorials" title="Blundell | Android Developer Tutorials" xmlUrl="https://blog.blundellapps.co.uk/feed/" htmlUrl="https://blog.blundellapps.co.uk/"/>
         <outline type="rss" text="Blundell | Android Developer Tutorials" title="Blundell | Android Developer Tutorials" xmlUrl="https://blog.blundellapps.co.uk/feed/" htmlUrl="https://blog.blundellapps.co.uk/"/>
         <outline type="rss" text="Bob the Developer" title="Bob the Developer" xmlUrl="https://blog.bobthedeveloper.io/feed" htmlUrl="https://blog.bobthedeveloper.io/"/>
